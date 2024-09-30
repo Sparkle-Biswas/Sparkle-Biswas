@@ -1,5 +1,6 @@
-## Hi there 👋
-
+## Hi there, my name is Sparkle ✨✨
+## I aspire to create responsive, functional, and creative user experiences for all!
+## Check out my projects down below 
 <!--
 **Sparkle-Biswas/Sparkle-Biswas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
