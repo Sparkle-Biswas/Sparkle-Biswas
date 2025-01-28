@@ -2,8 +2,6 @@
 ## I aspire to create responsive, functional, and creative user experiences for all!
 ## Check out my projects down below!
 
-## Contact Me @  
-
 <!--
 **Sparkle-Biswas/Sparkle-Biswas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
